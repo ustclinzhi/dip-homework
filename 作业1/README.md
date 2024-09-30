@@ -52,10 +52,13 @@ python run_point_transform.py
 
 ## Results (need add more result images)
 ### Basic Transformation
-<img src="pics/global_demo.gif" alt="alt text" width="800">
+<img src="屏幕截图 2024-09-30 185153" alt="alt text" width="800">
+<img src="屏幕截图 2024-09-30 185133" alt="alt text" width="800">
 
 ### Point Guided Deformation:
-<img src="pics/point_demo.gif" alt="alt text" width="800">
+<img src="屏幕截图 2024-09-30 183826" alt="alt text" width="800">
+<img src="屏幕截图 2024-09-30 184052" alt="alt text" width="800">
+<img src="屏幕截图 2024-09-30 184944" alt="alt text" width="800">
 
 ## Acknowledgement
 
