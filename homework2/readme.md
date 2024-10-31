@@ -5,10 +5,10 @@
 在本节中，我们进行了 Poisson 图像编辑，以下是通过该方法获得的结果图。
 
 ### 结果图 1: 蒙娜丽莎换脸记
-![结果图 1](homework2/mennalisha.png)  <!-- 请替换为实际的图像路径 -->
+![结果图 1](homework2/mennalisha.png)  
 
 ### 结果图 2: 幽灵鲨撕咬人群
-![结果图 2](homework2/ghostfish.png)  <!-- 请替换为实际的图像路径 -->
+![结果图 2](homework2/ghostfish.png) 
 
 ---
 
@@ -21,10 +21,9 @@
 - **训练结果**: 在约 300 次迭代时，损失值（loss）在 0.37 左右震荡，不再下降。但结果却非常差。
 
 #### 结果图 1(300层val_result)
-![结果图 3](homework2/badresult1.png)  <!-- 请替换为实际的图像路径 -->
-
+![结果图 3](homework2/badresult1.png)  
 #### 结果图 2(300层train_result)
-![结果图 4](homework2/badresult2.png)  <!-- 请替换为实际的图像路径 -->
+![结果图 4](homework2/badresult2.png)  
 
 ### 第二次实验
 - **设置**: 5 层网络
